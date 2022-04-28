@@ -15,7 +15,7 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: 15
 
-imagePullSecrets: []
+imagePullSecrets: azurepocp97168c34-auth
 nameOverride: ""
 fullnameOverride: ""
 
