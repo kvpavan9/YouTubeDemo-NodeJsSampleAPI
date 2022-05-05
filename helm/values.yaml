@@ -10,7 +10,7 @@ application:
 replicaCount: 1
 
 image:
-  repository: azurepocp.azurecr.io/aznodejs
+  repository: azurepocp.azurecr.io/nodejs
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: 15
